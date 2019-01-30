@@ -1,4 +1,4 @@
-# OUAP-4112
+# French public transport visualization
 
 Course unit : OUAP-4112  
 
@@ -29,7 +29,7 @@ Pre-processing is done launching the app.
 ## Packages installation
 
 Project uses external packages.
-Their installation is done by script.
+Run init.py to install all the packages needed.
 
 ## Run
 
@@ -37,6 +37,10 @@ Please define proxy for ESIEE computers: http://147.215.1.189:3128
 
 Run init.py firstly ! Attention, it can be long since it downloads all the data from web
 
-In terminal : > Python3 main.py
+In terminal :
+
+```bash
+python main.py
+```
 
 Then copy the URL into the navigator.
