@@ -6,6 +6,16 @@ Developers : Vincent Barbosa Vaz ; Cécile Pov
 
 Teacher : Daniel Courivaud
 
+## App preview
+
+Consider open the file *app_preview.pdf* for a full preview of the app.
+
+![Interactive map](img/interactive_map.jpg)
+
+![Bargraph](img/bargraph.jpg)
+
+![Heatmap](img/heatmap.jpg)
+
 ## Case study on public transport in France
 
 This project is based on public transport data in France.  
